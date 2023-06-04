@@ -1,0 +1,53 @@
+.perfil{
+    height: 200px;
+    padding: 8px 0px 5px 8px;
+    font-size: small;
+    width: 100%;
+    border-bottom: 4px solid rgba(128, 128, 128, 0.493);
+}
+.perfil img{
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.editPerfil{
+    width: 200px;
+    border-radius: 15px;
+    height: 40px;
+    background-color: white;    
+    height: 50px;
+    padding: 0;
+}
+.editarPerfil{
+    text-align: center;
+    font-size: x-large;
+    text-decoration: none;
+    color: black;    
+    font-weight: bold;
+}
+.historico{
+    margin-left: 30px;
+    width: 300px;
+    border-right: 4px solid rgba(128, 128, 128, 0.493);
+    border-left: 4px solid rgba(128, 128, 128, 0.493);
+    height: 50px;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 10px;
+}
+.produtos{
+    height: 170px;
+    margin-left: 30px;
+    border: 2px solid black;
+    padding: 8px 0px 5px 8px;
+    font-size: large;
+    width: 70%;
+    margin-bottom: 15px;
+}
+.produtos img{
+    float: left;
+    margin-right: 15px;
+}
+.preco{
+    color: rgb(89, 255, 47);
+}

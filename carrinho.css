@@ -1,0 +1,53 @@
+.produtos{
+    height: 180px;
+    margin-left: 30px;
+    border: 2px solid black;
+    padding: 8px 0px 5px 8px;
+    font-size: small;
+    width: 70%;
+    margin-bottom: 15px;
+}
+.produtos img{
+    float: left;
+    margin-right: 15px;
+}
+.preco{
+    color: rgb(89, 255, 47);
+}
+button{
+    background-color: red;
+    width: 150px;
+    border-radius: 15px;
+    border: 1px solid black;
+    height: 40px;
+}
+.botao{
+    text-decoration: none;
+    color: white;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: rgba(128, 128, 128, 0.219);
+}
+.botao_principal{
+    justify-items: center;
+    width: 100%;
+    position: relative;
+}
+.botao_principal button{
+    height: 60px;
+    margin-left: 45%;
+    margin-bottom: 20px;
+}
+.nome-sessao{
+    width: 100px;
+    padding:5px;
+    margin-left:10px;
+    margin-top: 20px;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+}
